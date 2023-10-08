@@ -1,0 +1,6 @@
+*.exe
+*.pptx
+/.vscode
+/build
+/numerical_analysis/build
+/numerical_analysis/output
